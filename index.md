@@ -1,6 +1,6 @@
 # Welcome to homepage of Laboratory of Advanced Measurement & Control Technology, Department of Control Science and Technology, College of Electronic and Information, Tongji University
 
-# 中文版本请点击这里
+# 中文版本请点击[这里](https://tongjiseemct.github.io/CN)
 
 ## Announcements
 
@@ -8,7 +8,7 @@
 
 ## Publications
 
-Please refer to here.
+Please refer to [here](https://tongjiseemct.github.io/memeber).
 
 ## Research interest
 
