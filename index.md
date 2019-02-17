@@ -4,6 +4,6 @@ Research interest: Computer vision
 
 
 
-## Contact: tongji_see_mct@outlook.com or 1410472@tongji.edu.cn
-## Address: No.4800 Cao’an Road, Shanghai, P. R. China.
-## Tel: +86-021-69589241
+# Contact: tongji_see_mct@outlook.com or 1410472@tongji.edu.cn
+# Address: No.4800 Cao’an Road, Shanghai, P. R. China.
+# Tel: +86-021-69589241
