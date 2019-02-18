@@ -8,17 +8,15 @@
 
 ## Publications
 
-Please refer to [here](https://tongjiseemct.github.io/memeber).
+Please refer to here.
 
 ## Research interest
-
-Power electronics, Control theory, Computer vision.
 
 Please refer to individual pages of each professor in "Group members" to see detailed research insterests. 
 
 ## Group members
 
-Please refer to here.
+Please refer to [here](https://tongjiseemct.github.io/member).
 
 
 
