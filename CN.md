@@ -5,6 +5,6 @@
 
 ## 已发表论文
 
-请点击[这里]()
+请点击[这里](https://tongjiseemct.github.io/pubs)
 
 ## 人员名单
