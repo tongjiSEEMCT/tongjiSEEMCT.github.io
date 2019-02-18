@@ -1,8 +1,9 @@
+# 欢迎来到同济大学电子与信息工程学院控制科学与工程系先进测控技术实验室的主页！中文版本请点击[这里](https://tongjiseemct.github.io/CN)
+
 # Welcome to homepage of Laboratory of Advanced Measurement & Control Technology, Tongji University
 
-# 中文版本请点击[这里](https://tongjiseemct.github.io/CN)
 
-We are a research group with main research interest in control theory and measurement technology led by Prof. Jiguang Yue from 
+We are a research group with main research interests on control theory and measurement technology. Our group is now led by Prof. Jiguang Yue from 
 Department of Control Science and Technology, College of Electronic and Information, Tongji University.
 
 ## Announcements
