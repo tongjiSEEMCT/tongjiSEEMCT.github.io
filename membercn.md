@@ -4,7 +4,7 @@
 
 苏永清 副教授
 
-董延超 副教授
+[董延超](https://tongjiseemct.github.io/dyccn) 副教授
 
 ### 博士生
 
