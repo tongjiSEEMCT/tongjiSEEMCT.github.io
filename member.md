@@ -16,7 +16,7 @@ Mr. Chenhao Wu
 
 ### Master candidates
 
-Mr. Shibo He
+[Mr. Shibo He](https://github.com/heshibo1994)
 
 Miss. Minjing Lin
 
@@ -39,7 +39,7 @@ Miss. Lingling Ji
 Mr. Shaochun Ning
 
 
-### Former members
+### Former members (Content in "()" is their current job status)
 
 Dr. Qiang Sun (Tongji University)
 
@@ -47,11 +47,11 @@ Dr. Yanming Wang (SAIC Volkswagen)
 
 Dr. Hao Liu (Huawei)
 
-Dr. Peixin Hou (HJZJ)
+[Dr. Peixin Hou](https://marquistj13.github.io/MyBlog/) (HJZJ)
 
 Mr. Ce Chen (DJI)
 
-[Mr. Gang Xu](xugang.ink) (Roadefend)
+[Mr. Gang Xu](https://xugang.ink/) (Roadefend)
 
 Miss. Shuang Zhang (Pinduoduo)
 
@@ -62,3 +62,9 @@ Miss. Xuejiao Liu (Alipay)
 Miss. Huihua Mu (Huawei)
 
 [Mr. Liang Shi](https://github.com/VectorSL) (Huawei)
+
+Mr. Danxu Tang (China Merchants Bank)
+
+Mr. Yin Wang (China Financial Futures Exchange)
+
+Mr. Wenda Zhao (University of Toronto)
