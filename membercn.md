@@ -1,8 +1,8 @@
 ### 教师
 
-岳继光 教授
+[岳继光](https://tongjiseemct.github.io/yjgcn) 教授
 
-苏永清 副教授
+[苏永清](https://tongjiseemct.github.io/syqcn) 副教授
 
 [董延超](https://tongjiseemct.github.io/dyccn) 副教授
 

@@ -1,10 +1,10 @@
 ### Professors
 
-Prof. Jiguang Yue
+[Prof. Jiguang Yue](https://tongjiseemct.github.io/yjg)
 
 Prof. Yongqing Su
 
-Prof. Yanchao Dong
+[Prof. Yanchao Dong](https://tongjiseemct.github.io/dyc)
 
 ### PhD candidates
 

@@ -1,4 +1,4 @@
-## 岳继光
+## Jiguang Yue
 
 ![avatar](https://tongjiseemct.github.io/yjg.jpg)
 
