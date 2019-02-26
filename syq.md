@@ -8,7 +8,9 @@ Associate Professor, College of Electronics and Information Engineering, Tongji 
 Education:
 
 (1) 1991-2000 B.S. Mechanical design and manufacturing, School of Mechanical and Electrical Engineering, Harbin Institute of Technology
+
     M.S. Fluid drive and control, School of Mechanical and Electrical Engineering, Harbin Institute of Technology
+    
     Ph.D Mechatronic Engineering, School of Mechanical and Electrical Engineering, Harbin Institute of Technology
 
 
