@@ -47,7 +47,7 @@ Dr. Yanming Wang (SAIC Volkswagen)
 
 Dr. Hao Liu (Huawei)
 
-[Dr. Peixin Hou](https://marquistj13.github.io/MyBlog/) (HJZJ)
+[Dr. Peixin Hou](https://marquistj13.github.io/MyBlog/) (Hongjing Drive)
 
 Mr. Ce Chen (DJI)
 
