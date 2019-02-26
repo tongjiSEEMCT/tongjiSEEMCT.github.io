@@ -2,7 +2,7 @@
 
 [Prof. Jiguang Yue](https://tongjiseemct.github.io/yjg)
 
-Prof. Yongqing Su
+[Prof. Yongqing Su](https://tongjiSEEMCT.github.io/syq)
 
 [Prof. Yanchao Dong](https://tongjiseemct.github.io/dyc)
 
