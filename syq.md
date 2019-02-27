@@ -23,9 +23,9 @@ Research Experiences:
 
 Research interests: 
 
-1. Research and application in engineering applications focuses on the research and development of key equipment for aerospace vehicles, automotive electronics (automatic transmission, ABS, large-scale automotive test equipment), application and development of large-scale wind power technology, high-precision navigation and positioning technology and other engineering applications.
+(1) Research and application in engineering applications focuses on the research and development of key equipment for aerospace vehicles, automotive electronics (automatic transmission, ABS, large-scale automotive test equipment), application and development of large-scale wind power technology, high-precision navigation and positioning technology and other engineering applications.
 
-2. Theoretical research mainly focuses on the theory and application of hybrid systems, research on high-precision navigation information processing algorithms, fault diagnosis and reliability.
+(2) Theoretical research mainly focuses on the theory and application of hybrid systems, research on high-precision navigation information processing algorithms, fault diagnosis and reliability.
 
 
 Contacts: yongqingsu@163.com
