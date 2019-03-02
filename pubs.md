@@ -11,19 +11,29 @@ Liang Shi, Jiguang Yue, Yanchao Dong, Minjing Lin, Runjie Shen, and Zhiming Chan
 
 ## 2017
 
+Peixin Hou, Jiguang Yue, Heng Deng and Shuguang Liu. PCM clustering based on noise level, 2017 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 1–8, 2017.
+
+Li Wang, Jiguang Yue, Yongqing Su, Feng Li,Qiang Sun, Yanchao Dong. A Novel Remaining Useful Life Prediction Approach for Superbuck Converter Circuits Based on Modified Grey Wolf Optimizer-Support Vector Regression, Energies 2017, 10, 459; doi:10.3390/en10040459.
 
 Senbo Wang, Jiguang Yue, and Yanchao Dong. "Obstacle detection on around view monitoring system." In 2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 1564-1569. IEEE, 2017.
 
 Qiang Sun, Jiguang Yue, Yanming Wang, Yongqing Su, Yanchao Dong. Critical Fragility Analysis for Electro-Mechanical System under Harsh Operating Conditions[J]. International Journal of Control and Automation, 2017, 10(4)
+
+孙强, 魏伟, 侯培鑫, 岳继光. 基于区间数单簇聚类-单分类器的异常检测[J]. 计算机科学, 2017, 44(6). 189-198，205
 
 
 ## 2016
 
 Yanming Wang, Jiguang Yue, Yanchao Dong and Zhencheng Hu. Robust discriminative regression for facial landmark localization under occlusion, Neurocomputing, 2016.11.19, 214: 881~893
 
+Yanming Wang, Jiguang Yue, Yanchao Dong, et al. Review on kernel based target trackingfor autonomous driving. Journal of Information Processing, 2016, Vol.24 (1): 49-63
+
 Yanchao Dong; Yan Zhang; Jiguang Yue; Zhencheng Hu, Comparison of random forest, random ferns and support vector machine for eye state classification , MULTIMEDIA TOOLS AND APPLICATIONS, 2016.10, 75(19): 11763~11783
 
 Yanchao Dong; Yanming Wang; Jiguang Yue; Zhencheng Hu, Real Time 3D Facial Movement Tracking Using a Monocular Camera , SENSORS, 2016.8, 16(8)
+
+Liu Hao, Yue Jiguang, Su Yongqing, et al. Ameliorating calculation of ionospheric amplitude scintillation index from under-sampled phase measurement. Advances in Space Research, 2016
+
 
 
 ## 2015 
@@ -32,10 +42,46 @@ Yanchao Dong; Yanming Wang; Jiguang Yue; Zhencheng Hu, Robust facial landmark lo
 
 Zhencheng Hu; Naoko Uchida; Yanming Wang; Yanchao Dong, Face Orientation Estimation for Driver Monitoring with a Single Depth Camera , IEEE Intelligent Vehicles Symposium, Seoul, SOUTH KOREA, 2015
 
+Haiyuan Guo, Hongliang Pan, Jiguang Yue, Zhiming Liao, Zhengliang Tang, Failure Location for Voltage Converter on the High Speed Maglev Train, CICTP 2015
+
+Zhengliang Tang, Zhiming Liao, Jiguang Yue, etal. Reliability Analysis of DCDC Converter for the High-speed Maglev Train. 15th COTA International Conference of Transportation Professionals, 2015, 1787-1798
+
+Haiyuan Guo, Hongliang Pan, Jiguang Yue, etal. Failure location for voltage converter on high speed maglev train. 15th COTA International Conference of Transportation Professionals, 2015, 2973-2984
 
 ## 2014
 
 Zhang Yan; Yue Jiguang; Yanchao Dong; Zhencheng Hu, Robust eye openness and head pose estimation based on multi modal camera , 2014 IEEE Workshop on Advanced Research and Technology in Industry Applications,WARTIA 2014, Ottawa, ON, Canada, 2014
+
+Su Yongqing, Liu Hao, Yue Jiguang, et al. Characterization of ionospheric amplitude scintillations using wavelet entropy detrended GNSS data. Advances in Space Research, 2014, Vol.54(11): 2172-2183
+
+Xu Fuzhen, Su Yongqing, Liu Hao. Research of Optimized Adaptive Kalman Filtering, In Proceedings of 26th Chinese Control and Decision Conference (EI), Changsha, China, 2014: 1210-1214
+
+Su Yongqing, Yang Yunfan, Liu Hao. The Application of Empirical Mode Decomposition in Data Detrending for Ionosphere Amplitude Scintillation Study, In Proceedings of International Conference on Control Engineering and Automation, Chongqing, China, 2014: 593-600
+
+孙强, 岳继光. 基于不确定性的故障预测方法综述[J]. 控制与决策, 2014, 29(5): 769-778.
+
+郭慧, 孙强, 曹明垚, 岳继光. 一种提高直驱式泵控电-液伺服系统频宽的方法[J]. 液压与气动, 2014, 01:106-110.
+
+## 2013
+
+Wang Yanming, Yue Jiguang, Su Yongqing, et al. Design of Two-Dimensional Zero-Phase FIR Digital Filter by McClellan Transformation and Interval Global Optimization. IEEE Transactions on Circuits and Systems II: Express Briefs, 2013, Vol.60 (3): 167-171
+
+Qiang Sun, Jiguang Yue, Yanming Wang, Hao Liu. Electrohydraulic system reliability allocation based on interval analytic hierarchy process with correction[C]. 2013 25th Chinese Control and Decision Conference (CCDC), 25-27 May 2013, Guiyang: 1823-1828.
+
+岳继光, 杨臻明, 孙强, 王晓保. 区间时间序列的混合预测模型[J]. 控制与决策, 2013, 28(12): 1915-1920. 
+ 
+杨臻明, 岳继光, 王晓保等. 基于独立成分分析的含噪声时间序列预测[J]. 控制与决策, 2013, 28(4): 501-505.
+
+杨臻明, 岳继光, 王晓保等. 基于独立模型的非线性时间序列多步超前预测[J]. 上海交通大学学报, 2013, 47(10): 1626-1631.
+
+岳继光, 杨臻明, 孙强等. 区间时间序列的混合预测模型[J]. 控制与决策, 2013, 28(12): 1915-1920.
+
+姜浩，岳继光，胡龙达.用于汽车耐久性试验的驾驶机器人模糊控制仿真.系统仿真技术，2013，Vol.21 （3）:70-74
+
+曹明垚, 孙强, 郭慧, 岳继光. 一种直驱式容积控制电-液伺服系统动态特性分析[J]. 液压与气动, 2013, 5:41-44.
+
+
+
 
 
 

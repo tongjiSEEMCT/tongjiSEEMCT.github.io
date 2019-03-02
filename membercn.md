@@ -15,7 +15,7 @@
 吴琛浩
 
 
-### Master candidates
+### 硕士生
 
 [何士波](https://github.com/heshibo1994)
 
@@ -45,7 +45,7 @@
 
 王艳明 博士 (上汽大众)
 
-刘浩 博士 (华为)
+刘灏 博士 (华为)
 
 [侯培鑫](https://marquistj13.github.io/MyBlog/) 博士 (宏景智驾)
 
