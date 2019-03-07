@@ -14,7 +14,7 @@ Education:
 
 Research Experiences:
 
-(1) 2001/06-, Professor, College of Electronics and Information Engineering, Tongji University
+(1) 2001/06-now, Professor, College of Electronics and Information Engineering, Tongji University
 
 (2) 1998/11-2001/05, Associate Professor, College of Electronics and Information Engineering, Tongji University
 

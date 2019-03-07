@@ -27,7 +27,9 @@ Please refer to individual pages of each professor in "Group members" to see det
 
 Please refer to [here](https://tongjiseemct.github.io/member).
 
+## Research projects
 
+Please refer to [here](https://tongjiseemct.github.io/projects)
 
 
 #### Contact: tongji_see_mct@outlook.com or 1410472@tongji.edu.cn

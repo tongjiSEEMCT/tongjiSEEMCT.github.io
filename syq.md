@@ -14,11 +14,11 @@ Education:
 
 Research Experiences:
 
-(1) 2000-2002,Postgraduate work in the Department of Information and Control, School of Electronics and Information Engineering, Tongji University.
+(1) 2000-2002, Postgraduate work in the Department of Information and Control, School of Electronics and Information Engineering, Tongji University.
 
-(2) 2002- ,College of Electronics and Information Engineering, Tongji University.
+(2) 2002-now, College of Electronics and Information Engineering, Tongji University.
 
-(3) 2007-2008,Exchange scholar, Allborg University, Denmark.
+(3) 2007-2008, Exchange scholar, Allborg University, Denmark.
 
 
 Research interests: 

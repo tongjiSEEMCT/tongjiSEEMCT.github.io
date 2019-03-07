@@ -19,6 +19,10 @@
 
 请点击[这里](https://tongjiseemct.github.io/membercn).
 
+## 研究项目
+
+请点击[这里](https://tongjiseemct.github.io/projectscn)
+
 
 #### 联系方式：tongji_see_mct@outlook.com 或者 1410472@tongji.edu.cn
 #### 地址：上海市嘉定区曹安公路4800号同济大学电子与信息工程学院615

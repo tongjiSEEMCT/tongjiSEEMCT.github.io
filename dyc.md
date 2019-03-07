@@ -15,7 +15,7 @@ Education:
 
 Research Experiences:
 
-(1) 2012.12-, Tongji University
+(1) 2012.12-now, Tongji University
 
 (2) 2012.4-2012.12, Kumamoto University
 
