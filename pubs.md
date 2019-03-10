@@ -9,7 +9,11 @@
 
 Senbo Wang, Jiguang Yue, Yanchao Dong, Runjie Shen, and Xinyu Zhang. "Real-time Omnidirectional Visual SLAM with Semi-Dense Mapping." In 2018 IEEE Intelligent Vehicles Symposium (IV), pp. 695-700. IEEE, 2018.
 
-Liang Shi, Jiguang Yue, Yanchao Dong, Minjing Lin, Runjie Shen, and Zhiming Chang. "CG Benefited Driver Facial Landmark Localization Across Large Rotation." In 2018 IEEE Intelligent Vehicles Symposium (IV), pp. 1995-2002. IEEE, 2018.
+Liang Shi, Jiguang Yue, Yanchao Dong, Minjing Lin, Senbo Wang, Runjie Shen, and Zhiming Chang. "CG Benefited Driver Facial Landmark Localization Across Large Rotation." In 2018 IEEE Intelligent Vehicles Symposium (IV), pp. 1995-2002. IEEE, 2018.
+
+Hou, Peixin, Jiguang Yue, Hao Deng, Shuguang Liu, and Qiang Sun. "Contribution-Factor based Fuzzy Min-Max Neural Network: Order-Dependent Clustering for Fuzzy System Identification." International Journal of Computational Intelligence Systems 11, no. 1 (2018): 737-756.
+
+Hou, Peixin, Jiguang Yue, Hao Deng, and Shuguang Liu. "An uncertainty perspective to PCM and APCM clustering." International Journal of Approximate Reasoning 95 (2018): 194-212.
 
 ## 2017
 
