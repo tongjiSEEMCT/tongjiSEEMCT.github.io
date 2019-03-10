@@ -13,6 +13,7 @@ Department of Control Science and Technology, College of Electronic and Informat
 
 ## Announcements
 
+[2019-03-10] PhD candidate Li Wang's oral defense for graduation will be held on 2019.3.14 in #1239, Siping road, Shanghai.  
 
 
 ## Publications
@@ -29,7 +30,7 @@ Please refer to [here](https://tongjiseemct.github.io/member).
 
 ## Research projects
 
-Please refer to [here](https://tongjiseemct.github.io/projects)
+Please refer to [here](https://tongjiseemct.github.io/projects).
 
 
 #### Contact: tongji_see_mct@outlook.com or 1410472@tongji.edu.cn
