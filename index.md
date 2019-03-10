@@ -13,7 +13,7 @@ Department of Control Science and Technology, College of Electronic and Informat
 
 ## Announcements
 
-[2019-03-10] PhD candidate Li Wang's oral defense for graduation will be held on 2019.3.14 in #1239, Siping road, Shanghai.  
+[2019-03-10] PhD candidate Li Wang's oral defense for graduation will be held on 2019.3.14 in Physics Building of Tongji University, No.1239, Siping Road, Shanghai.  
 
 
 ## Publications
