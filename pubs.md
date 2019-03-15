@@ -13,7 +13,13 @@ Liang Shi, Jiguang Yue, Yanchao Dong, Minjing Lin, Senbo Wang, Runjie Shen, and 
 
 Hou, Peixin, Jiguang Yue, Hao Deng, Shuguang Liu, and Qiang Sun. "Contribution-Factor based Fuzzy Min-Max Neural Network: Order-Dependent Clustering for Fuzzy System Identification." International Journal of Computational Intelligence Systems 11, no. 1 (2018): 737-756.
 
-Hou, Peixin, Jiguang Yue, Hao Deng, and Shuguang Liu. "An uncertainty perspective to PCM and APCM clustering." International Journal of Approximate Reasoning 95 (2018): 194-212.
+Hou, Peixin, Jiguang Yue, Hao Deng, and Shuguang Liu. "An uncertainty perspective to PCM and APCM clustering." International Journal of Approximate Reasoning 95 (2018): 194-212. 
+
+Wang, Li, Feng Lyu, Yongqing Su, and Jiguang Yue. "Kernel Entropy-Based Classification Approach for Superbuck Converter Circuit Fault Diagnosis." IEEE Access 6 (2018): 45504-45514.
+
+Wang, Li, Jiguang Yue, and Feng Lyu. "System Identification Based Parameter Monitoring Approach for DC-DC Superbuck Converter." In 2018 15th International Conference on Control, Automation, Robotics and Vision (ICARCV), pp. 1561-1566. IEEE, 2018.
+
+Wang, Li, Jizuanz Yue, Chenhao Wu, and Jincheng Liu. "KPCA-KELM Ensemble based Incipient Fault Diagnosis Approach of Analog Circuits." In 2018 Chinese Automation Congress (CAC), pp. 3577-3582. IEEE, 2018.
 
 ## 2017
 

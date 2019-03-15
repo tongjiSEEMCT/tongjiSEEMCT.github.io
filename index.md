@@ -13,6 +13,11 @@ Department of Control Science and Technology, College of Electronic and Informat
 
 ## Announcements
 
+[2019-03-14] Master candidates' oral defense for graduation will be held on 2019.3.16 in Zhixin Building of Tongji University, No.4800, Cao'an Road, Shanghai. 
+The candidates that will participate are Ce Chen, Gang Xu, Qi Qiao, Huihua Mu, Shuang Zhang and Xuejiao Liu. 
+
+--------------------------------------------------------
+
 [2019-03-10] PhD candidate Li Wang's oral defense for graduation will be held on 2019.3.14 in Physics Building of Tongji University, No.1239, Siping Road, Shanghai.  
 
 
