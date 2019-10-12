@@ -4,7 +4,7 @@
 
 #### Pipeline
 
-![avatar](https://tongjiseemct.github.io/Projects/objectpose/pbjectpose_pipeline_1.png)
+![avatar](https://tongjiseemct.github.io/Projects/objectpose/objectpose_pipeline_1.png)
 
 #### Video
 
