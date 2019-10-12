@@ -1,6 +1,10 @@
 
 ## Research projects
 
+### Object pose tracking system for texture-less objects
+
+Details can be found [here](https://tongjiseemct.github.io/Projects/objectpose/objectpose).
+
 
 ### Open-source computer vision tools
 
