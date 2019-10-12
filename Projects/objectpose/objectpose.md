@@ -17,5 +17,5 @@ Experiments are conducted both on public datasets and CG-rendered synthetic data
 
 #### Video
 
-[Video Site1](https://video.tudou.com/v/XMjI5NTU5NzI2NA==.html?spm=a2hzp.8244740.0.0)
+[Video Site (Youku)](https://v.youku.com/v_show/id_XNDM5NTc1ODA5Mg==.html?spm=a2h3j.8428770.3416059.1)
 
